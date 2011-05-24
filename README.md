@@ -1,8 +1,10 @@
 Rea
 ===
 
-[Rea](http://en.wikipedia.org/wiki/Rhea_(mythology)) is a fancy wrapper over connect.router
+[Rea] [1] is a fancy wrapper over connect.router
 
+  [1]: http://en.wikipedia.org/wiki/Rhea_(mythology)
+  
 Installing
 ----------
     npm install rea
